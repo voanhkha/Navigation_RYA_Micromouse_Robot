@@ -1,4 +1,4 @@
-# RYA_Micromouse
+# Navigation_RYA_Micromouse_Robot
 + Micromouse robot (TI Tiva Launchpad) using Energia (Arduino language)
 + Author: Vo Anh Kha (voanhkha@yahoo.com)
 + Date release: August 2016
