@@ -1,7 +1,7 @@
 # RYA_Micromouse
-# Micromouse robot (TI Tiva Launchpad) using Energia (Arduino language)
-# Author: Vo Anh Kha (voanhkha@yahoo.com)
-# Date release: August 2016
++ Micromouse robot (TI Tiva Launchpad) using Energia (Arduino language)
++ Author: Vo Anh Kha (voanhkha@yahoo.com)
++ Date release: August 2016
 
 This project's repository contains a main project (Kha_Navigation_Robot) which includes the sub-modules (Gyroscope, Compass, LED&KEY, UART, Spin).
 Each sub-module runs separately from the main project. The purpose of this repository's structure is for easier understanding and for better integration for later Energia projects.
